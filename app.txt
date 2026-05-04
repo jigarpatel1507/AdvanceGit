@@ -7,3 +7,5 @@ add some changes in auth
 
 BASE APP
 PAYMENT API
+LOGIN API
+JWT AUTH
